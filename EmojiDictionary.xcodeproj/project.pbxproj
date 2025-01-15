@@ -30,7 +30,7 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		D0E3F24E2D372023000FF556 /* Exceptions for "EmojiDictionary" folder in "EmojiDictionary" target */ = {
+		D0E3F27E2D376B61000FF556 /* Exceptions for "EmojiDictionary" folder in "EmojiDictionary" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
@@ -43,7 +43,7 @@
 		D0E3F2282D372022000FF556 /* EmojiDictionary */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				D0E3F24E2D372023000FF556 /* Exceptions for "EmojiDictionary" folder in "EmojiDictionary" target */,
+				D0E3F27E2D376B61000FF556 /* Exceptions for "EmojiDictionary" folder in "EmojiDictionary" target */,
 			);
 			path = EmojiDictionary;
 			sourceTree = "<group>";
